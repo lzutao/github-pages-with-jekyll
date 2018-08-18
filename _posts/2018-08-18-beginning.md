@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2018-08-18
+---
+
 ## Step 6: Create a blog post
 
 :warning: Do not merge yet! :warning:
